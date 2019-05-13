@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/waterlog/static/css/main.a0c7f5d5.chunk.css",
+    "main.js": "/waterlog/static/js/main.d7423639.chunk.js",
+    "main.js.map": "/waterlog/static/js/main.d7423639.chunk.js.map",
+    "runtime~main.js": "/waterlog/static/js/runtime~main.32112e4c.js",
+    "runtime~main.js.map": "/waterlog/static/js/runtime~main.32112e4c.js.map",
+    "static/js/2.2e9823cd.chunk.js": "/waterlog/static/js/2.2e9823cd.chunk.js",
+    "static/js/2.2e9823cd.chunk.js.map": "/waterlog/static/js/2.2e9823cd.chunk.js.map",
+    "index.html": "/waterlog/index.html",
+    "precache-manifest.105b0a578fddde0eea006dbb076daffa.js": "/waterlog/precache-manifest.105b0a578fddde0eea006dbb076daffa.js",
+    "service-worker.js": "/waterlog/service-worker.js",
+    "static/css/main.a0c7f5d5.chunk.css.map": "/waterlog/static/css/main.a0c7f5d5.chunk.css.map"
+  }
+}
