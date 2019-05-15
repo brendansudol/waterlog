@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fea3b9e8e98ce37ff40494f2dbb4f794",
+    "revision": "603c767dc1ee0fc1a0c004a8daece983",
     "url": "/waterlog/index.html"
   },
   {
